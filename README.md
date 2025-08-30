@@ -66,4 +66,7 @@ To get a local copy up and running, follow these simple steps.
 
 The biggest challenge was handling the sheer size and complexity of satellite data. Learning to filter out images with heavy cloud cover and efficiently process the large multi-band files was a major hurdle. This project taught me the importance of data preprocessing in a deep learning pipeline, and how to adapt standard ML workflows to a specialized domain like geospatial analysis.
 
-
+## images(pre visualised)
+<img width="1024" height="1024" alt="generated-image" src="https://github.com/user-attachments/assets/723087a7-515b-49b1-bbb5-8da1677ac8b1" />
+<img width="1024" height="1024" alt="generated-image (1)" src="https://github.com/user-attachments/assets/77c8d88c-3bb1-4e0a-b229-c6bc8a72b711" />
+<img width="1024" height="1024" alt="generated-image (2)" src="https://github.com/user-attachments/assets/31da02e0-3234-42b5-a7ad-14952b744800" />
